@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="scx-t scx-d">
+  <title id="scx-t">横断歩道の場面</title>
+  <desc id="scx-d">Roadway with Japanese pedestrian-crossing sign, zebra markings, and a waiting pedestrian; language-neutral educational diagram.</desc>
+  <rect width="720" height="360" fill="#F7F3E9"/>
+  <rect x="0" y="200" width="720" height="100" fill="#D9D3C5"/>
+  <g fill="#FFFFFF">
+    <rect x="280" y="210" width="18" height="80"/>
+    <rect x="310" y="210" width="18" height="80"/>
+    <rect x="340" y="210" width="18" height="80"/>
+    <rect x="370" y="210" width="18" height="80"/>
+    <rect x="400" y="210" width="18" height="80"/>
+    <rect x="430" y="210" width="18" height="80"/>
+  </g>
+  <g transform="translate(90,36) scale(0.72)">
+    <polygon points="100,20 170,58 170,118 100,176 30,118 30,58" fill="#1B4F9C"/>
+    <circle cx="100" cy="68" r="11" fill="#FFFFFF"/>
+    <path d="M100 82 v30 M86 96 h28 M100 112 l-12 26 M100 112 l12 26" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <rect x="56" y="148" width="10" height="16" fill="#FFFFFF"/>
+    <rect x="72" y="148" width="10" height="16" fill="#FFFFFF"/>
+    <rect x="88" y="148" width="10" height="16" fill="#FFFFFF"/>
+    <rect x="104" y="148" width="10" height="16" fill="#FFFFFF"/>
+    <rect x="120" y="148" width="10" height="16" fill="#FFFFFF"/>
+    <rect x="136" y="148" width="10" height="16" fill="#FFFFFF"/>
+  </g>
+  <rect x="168" y="168" width="12" height="50" fill="#252A2D"/>
+  <circle cx="500" cy="170" r="12" fill="#71865A"/>
+  <rect x="492" y="182" width="16" height="28" rx="3" fill="#71865A"/>
+  <g transform="translate(120,250)">
+    <rect width="100" height="40" rx="8" fill="#26466D"/>
+    <circle cx="26" cy="42" r="8" fill="#252A2D"/>
+    <circle cx="74" cy="42" r="8" fill="#252A2D"/>
+  </g>
+</svg>

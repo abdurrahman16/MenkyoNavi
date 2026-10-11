@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="MenkyoNavi">
+  <rect width="32" height="32" rx="8" fill="#F7F3E9"/>
+  <circle cx="16" cy="14.5" r="10.5" fill="none" stroke="#26466D" stroke-width="2.4"/>
+  <path d="M16 6.8 V14.5 L22.2 19" fill="none" stroke="#172D46" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8.2 24.2 Q16 17.8 23.8 24.2" fill="none" stroke="#26466D" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="16" cy="14.5" r="2.1" fill="#C6533E"/>
+</svg>

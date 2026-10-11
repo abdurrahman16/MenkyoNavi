@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><title>Object Malformed</title></head><body>
+<script>
+const TESTNAMES=["Bad Group"];
+const CH=["Ch.X"];
+const TESTSRC=["jaf"];
+const TESTS=[];
+TESTS.push([
+{q:"Valid object question.",a:true,e:"Valid explanation."},
+{q:"Missing answer field.",e:"No answer here."},
+{q:123,a:false,e:"Bad question type."},
+{q:"Bad answer type.",a:2,e:"Answer not boolean."}
+]);
+</script>
+</body></html>

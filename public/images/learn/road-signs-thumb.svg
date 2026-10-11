@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-labelledby="rst-t rst-d">
+  <title id="rst-t">道路標識</title>
+  <desc id="rst-d">Compact thumbnail with Japanese temporary-stop, no-entry, and speed-limit signs.</desc>
+  <rect width="480" height="240" fill="#F7F3E9"/>
+  <g transform="translate(20,30) scale(0.9)">
+    <polygon points="100,178 22,34 178,34" fill="#C62828" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"/>
+    <text x="100" y="98" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="22" font-weight="700">止まれ</text>
+  </g>
+  <g transform="translate(170,40) scale(0.8)">
+    <circle cx="100" cy="100" r="78" fill="#C62828"/>
+    <circle cx="100" cy="100" r="78" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+    <rect x="38" y="88" width="124" height="24" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(310,40) scale(0.8)">
+    <circle cx="100" cy="100" r="78" fill="#FFFFFF" stroke="#C62828" stroke-width="14"/>
+    <text x="100" y="118" text-anchor="middle" fill="#252A2D" font-family="sans-serif" font-size="64" font-weight="700">40</text>
+  </g>
+</svg>

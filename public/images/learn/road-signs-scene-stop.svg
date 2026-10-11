@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="ss-t ss-d">
+  <title id="ss-t">一時停止の場面</title>
+  <desc id="ss-d">Left-side approach to an intersection with Japanese temporary-stop sign, stop line ahead of the vehicle, and educational geometry only.</desc>
+  <rect width="720" height="360" fill="#F7F3E9"/>
+  <rect x="0" y="220" width="720" height="90" fill="#D9D3C5"/>
+  <rect x="300" y="0" width="120" height="220" fill="#D9D3C5"/>
+  <rect x="280" y="210" width="160" height="10" fill="#C6533E"/>
+  <g transform="translate(100,24) scale(0.72)">
+    <polygon points="100,178 22,34 178,34" fill="#C62828" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"/>
+    <text x="100" y="98" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="24" font-weight="700">止まれ</text>
+  </g>
+  <rect x="158" y="155" width="12" height="70" fill="#252A2D"/>
+  <g transform="translate(420,250)">
+    <rect width="110" height="42" rx="8" fill="#26466D"/>
+    <circle cx="28" cy="44" r="9" fill="#252A2D"/>
+    <circle cx="82" cy="44" r="9" fill="#252A2D"/>
+  </g>
+</svg>

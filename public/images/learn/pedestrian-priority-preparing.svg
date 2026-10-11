@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="ppp-t ppp-d">
+  <title id="ppp-t">Pedestrian preparing to cross</title>
+  <desc id="ppp-d">Language-neutral educational diagram: pedestrian facing the roadway at a crosswalk while a car stops short of the stop line. Captions rendered in HTML.</desc>
+  <rect width="640" height="320" fill="#F7F3E9"/>
+  <rect x="0" y="155" width="640" height="85" fill="#D9D3C5"/>
+  <rect x="250" y="145" width="140" height="8" fill="#C6533E"/>
+  <rect x="270" y="155" width="16" height="85" fill="#F4F0E4"/>
+  <rect x="298" y="155" width="16" height="85" fill="#F4F0E4"/>
+  <rect x="326" y="155" width="16" height="85" fill="#F4F0E4"/>
+  <rect x="354" y="155" width="16" height="85" fill="#F4F0E4"/>
+  <g transform="translate(90,175)">
+    <rect x="0" y="16" width="108" height="34" rx="8" fill="#26466D"/>
+    <circle cx="26" cy="52" r="9" fill="#2B2B2B"/>
+    <circle cx="84" cy="52" r="9" fill="#2B2B2B"/>
+  </g>
+  <g transform="translate(430,118)">
+    <circle cx="16" cy="9" r="9" fill="#71865A"/>
+    <rect x="10" y="19" width="12" height="28" rx="4" fill="#71865A"/>
+    <path d="M16 28 L2 40 M16 28 L30 38 M16 47 L10 68 M16 47 L24 68" stroke="#71865A" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M34 24 h46" stroke="#C6533E" stroke-width="3" fill="none"/>
+    <polygon points="80,24 68,18 68,30" fill="#C6533E"/>
+  </g>
+</svg>

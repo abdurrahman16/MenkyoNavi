@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="iplt-t iplt-d">
+  <title id="iplt-t">Left turn in Japan</title>
+  <desc id="iplt-d">Language-neutral left-side traffic left-turn path staying near the left edge with pedestrian awareness. Captions rendered in HTML.</desc>
+  <rect width="720" height="400" fill="#F7F3E9"/>
+  <rect x="280" y="0" width="160" height="400" fill="#D9D3C5"/>
+  <rect x="0" y="140" width="720" height="120" fill="#D9D3C5"/>
+  <path d="M120 230 C200 230 250 230 300 190 C340 150 360 80 360 30" stroke="#26466D" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <polygon points="360,30 352,44 368,44" fill="#26466D"/>
+  <g transform="translate(90,210)">
+    <rect width="70" height="30" rx="6" fill="#26466D"/>
+    <circle cx="18" cy="32" r="6" fill="#252A2D"/>
+    <circle cx="52" cy="32" r="6" fill="#252A2D"/>
+  </g>
+  <circle cx="420" cy="170" r="12" fill="#71865A"/>
+  <rect x="414" y="182" width="12" height="24" rx="3" fill="#71865A"/>
+</svg>

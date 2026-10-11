@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="sne-t sne-d">
+  <title id="sne-t">車両進入禁止の場面</title>
+  <desc id="sne-d">Restricted roadway entrance with Japanese vehicle no-entry sign 303 (red ground, white horizontal band).</desc>
+  <rect width="720" height="360" fill="#F7F3E9"/>
+  <rect x="260" y="0" width="200" height="360" fill="#D9D3C5"/>
+  <rect x="250" y="140" width="220" height="12" fill="#C6533E" opacity="0.85"/>
+  <g transform="translate(80,70) scale(0.85)">
+    <circle cx="100" cy="100" r="78" fill="#C62828"/>
+    <circle cx="100" cy="100" r="78" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+    <rect x="38" y="88" width="124" height="24" fill="#FFFFFF"/>
+  </g>
+  <rect x="178" y="210" width="12" height="80" fill="#252A2D"/>
+  <g transform="translate(470,250)">
+    <rect width="100" height="40" rx="8" fill="#26466D"/>
+    <circle cx="26" cy="42" r="8" fill="#252A2D"/>
+    <circle cx="74" cy="42" r="8" fill="#252A2D"/>
+  </g>
+  <path d="M560 270 h80" stroke="#C6533E" stroke-width="4" stroke-dasharray="10 8" fill="none"/>
+  <polygon points="640,270 624,262 624,278" fill="#C6533E"/>
+</svg>

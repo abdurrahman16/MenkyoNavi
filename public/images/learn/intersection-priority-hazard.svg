@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" role="img" aria-labelledby="iphaz-t iphaz-d">
+  <title id="iphaz-t">Intersection hazard observation</title>
+  <desc id="iphaz-d">Language-neutral hazards marked with letter badges A B C around an intersection. Captions rendered in HTML.</desc>
+  <rect width="840" height="400" fill="#F7F3E9"/>
+  <rect x="330" y="0" width="160" height="400" fill="#D9D3C5"/>
+  <rect x="0" y="150" width="840" height="120" fill="#D9D3C5"/>
+  <g transform="translate(140,190)">
+    <rect width="70" height="28" rx="5" fill="#26466D"/>
+    <circle cx="16" cy="30" r="6" fill="#252A2D"/>
+    <circle cx="54" cy="30" r="6" fill="#252A2D"/>
+  </g>
+  <circle cx="520" cy="130" r="12" fill="#71865A"/>
+  <circle cx="540" cy="110" r="14" fill="#26466D"/>
+  <text x="540" y="115" text-anchor="middle" fill="#FFFFFF" font-size="14" font-weight="700" font-family="sans-serif">A</text>
+  <circle cx="250" cy="120" r="12" fill="#B88A44"/>
+  <circle cx="270" cy="100" r="14" fill="#26466D"/>
+  <text x="270" y="105" text-anchor="middle" fill="#FFFFFF" font-size="14" font-weight="700" font-family="sans-serif">B</text>
+  <rect x="580" y="230" width="50" height="28" rx="5" fill="#C6533E" opacity="0.85"/>
+  <circle cx="640" cy="220" r="14" fill="#26466D"/>
+  <text x="640" y="225" text-anchor="middle" fill="#FFFFFF" font-size="14" font-weight="700" font-family="sans-serif">C</text>
+</svg>

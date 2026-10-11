@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="np-t np-d">
+  <title id="np-t">No parking</title>
+  <desc id="np-d">Japanese circular no-parking sign: blue disc, red rim, single red diagonal, white P.</desc>
+  <circle cx="100" cy="100" r="78" fill="#1B4F9C" stroke="#C6533E" stroke-width="12"/>
+  <text x="100" y="122" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="72" font-weight="700">P</text>
+  <line x1="48" y1="48" x2="152" y2="152" stroke="#C6533E" stroke-width="14" stroke-linecap="round"/>
+</svg>

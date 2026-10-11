@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="ppi-t ppi-d">
+  <title id="ppi-t">Intersection without a marked crosswalk</title>
+  <desc id="ppi-d">Language-neutral educational diagram: unsignalized intersection where a pedestrian is crossing and a turning vehicle yields. Captions rendered in HTML.</desc>
+  <rect width="640" height="320" fill="#F7F3E9"/>
+  <rect x="250" y="0" width="120" height="320" fill="#D9D3C5"/>
+  <rect x="0" y="110" width="640" height="100" fill="#D9D3C5"/>
+  <rect x="250" y="110" width="120" height="100" fill="#C8C1B0"/>
+  <g transform="translate(120,145)">
+    <rect x="0" y="14" width="90" height="30" rx="7" fill="#26466D"/>
+    <circle cx="22" cy="46" r="8" fill="#2B2B2B"/>
+    <circle cx="70" cy="46" r="8" fill="#2B2B2B"/>
+  </g>
+  <path d="M210 160 Q250 160 280 140" stroke="#71865A" stroke-width="3" fill="none" stroke-dasharray="7 6"/>
+  <polygon points="280,140 268,134 268,146" fill="#71865A"/>
+  <g transform="translate(300,70)">
+    <circle cx="14" cy="8" r="8" fill="#71865A"/>
+    <rect x="9" y="17" width="10" height="22" rx="3" fill="#71865A"/>
+    <path d="M14 24 L4 34 M14 24 L24 34 M14 39 L9 56 M14 39 L19 56" stroke="#71865A" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

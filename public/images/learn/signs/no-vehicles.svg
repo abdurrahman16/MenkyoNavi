@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="nv-t nv-d">
+  <title id="nv-t">No vehicles</title>
+  <desc id="nv-d">Japanese circular vehicles-prohibited sign with black vehicle silhouette and red slash.</desc>
+  <circle cx="100" cy="100" r="78" fill="#ffffff" stroke="#C6533E" stroke-width="14"/>
+  <rect x="58" y="88" width="84" height="36" rx="8" fill="#252A2D"/>
+  <circle cx="78" cy="128" r="10" fill="#252A2D"/>
+  <circle cx="122" cy="128" r="10" fill="#252A2D"/>
+  <line x1="48" y1="48" x2="152" y2="152" stroke="#C6533E" stroke-width="14" stroke-linecap="round"/>
+</svg>

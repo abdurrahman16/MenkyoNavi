@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="ns-t ns-d">
+  <title id="ns-t">No stopping or parking</title>
+  <desc id="ns-d">Japanese circular no-stopping-or-parking sign with crossed red diagonals.</desc>
+  <circle cx="100" cy="100" r="78" fill="#1B4F9C" stroke="#C6533E" stroke-width="12"/>
+  <line x1="48" y1="48" x2="152" y2="152" stroke="#C6533E" stroke-width="12" stroke-linecap="round"/>
+  <line x1="152" y1="48" x2="48" y2="152" stroke="#C6533E" stroke-width="12" stroke-linecap="round"/>
+</svg>

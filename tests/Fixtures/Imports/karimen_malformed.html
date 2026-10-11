@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><title>Malformed</title></head><body>
+<script>
+const SIGNS={
+ pedbike:'svg-pedbike'
+};
+const TESTS=[
+[
+["Valid question one.",0,"Valid explanation one."],
+["Valid question two.",1,"Valid explanation two."],
+["Broken entry with bad answer.",2,"Should be rejected."],
+["Broken entry missing fields."],
+["Valid question five.",1,"Valid explanation five."]
+],
+[
+["T2q1.",1,"e"],
+["T2q2.",0,"e"],
+["T2q3.",1,"e"],
+["T2q4.",0,"e"],
+["T2q5.",1,"e"]
+],
+[
+["T3q1.",0,"e"],
+["T3q2.",1,"e"],
+["T3q3.",0,"e"],
+["T3q4.",1,"e"],
+["T3q5.",0,"e"]
+],
+[
+["T4q1.",1,"e"],
+["T4q2.",0,"e"],
+["T4q3.",1,"e"],
+["T4q4.",0,"e"],
+["T4q5.",1,"e"]
+],
+[
+["T5q1.",0,"e"],
+["T5q2.",1,"e"],
+["T5q3.",0,"e"],
+["T5q4.",1,"e"],
+["T5q5.",0,"e"]
+]
+];
+const DL1=[
+["D1q1.",1,"e"],
+["D1q2.",0,"e"],
+["D1q3.",1,"e"],
+["D1q4.",0,"e"],
+["D1q5.",1,"e"]
+];
+const DL2=[
+["D2q1.",0,"e"],
+["D2q2.",1,"e"],
+["D2q3.",0,"e"],
+["D2q4.",1,"e"],
+["D2q5.",0,"e"]
+];
+const DL3=[
+["D3q1.",1,"e"],
+["D3q2.",0,"e"],
+["D3q3.",1,"e"],
+["D3q4.",0,"e"],
+["D3q5.",1,"e"]
+];
+const DL4=[
+["D4q1.",0,"e"],
+["D4q2.",1,"e"],
+["D4q3.",0,"e"],
+["D4q4.",1,"e"],
+["D4q5.",0,"e"]
+];
+</script>
+</body></html>

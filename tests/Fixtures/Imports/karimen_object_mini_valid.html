@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><title>Object Mini</title></head><body>
+<script>
+const TESTNAMES=["Signals · Signs · License","Lanes · Pedestrians · Speed","Master Stage 1"];
+const CH=["Ch.1–2 Basics & Before Driving","Ch.3 Driving Tips A","Master Bk · Stage 1 L.1–8"];
+const TESTSRC=["jaf","jaf","master"];
+const TESTS=[];
+/* ---- TEST 1 ---- */
+TESTS.push([
+{q:"When the traffic light for perpendicular traffic turns red, you may assume your light is green and proceed.",a:false,t:1,e:"Never assume — some systems turn ALL lights red simultaneously. Observe the light you are facing."},
+{q:"Traffic lights with human pictograms apply to pedestrians and regular bicycles.",a:true,e:"Pedestrian-type signals cover pedestrians and regular bicycles."},
+{q:"Object-only unique question about yellow arrows.",a:false,t:1,e:"A yellow arrow is for streetcars/trams ONLY."}
+]);
+/* ---- TEST 2 ---- */
+TESTS.push([
+{q:"Duplicate inside object bank shared wording.",a:true,e:"Shared explanation for internal duplicate."},
+{q:"Object bank lanes question one.",a:false,e:"Lanes explanation one."},
+{q:"Same wording different answer probe object.",a:true,e:"Answer true explanation object."}
+]);
+/* ---- TEST 3 ---- */
+TESTS.push([
+{q:"Duplicate inside object bank shared wording.",a:true,e:"Shared explanation for internal duplicate."},
+{q:"Same wording different answer probe object.",a:false,e:"Answer false explanation object."},
+{q:"Mini karimen question one that is false.",a:false,e:"Explanation for question one."},
+{q:"Mini karimen question three.",a:false,e:"Cross-source answer conflict explanation."}
+]);
+</script>
+</body></html>

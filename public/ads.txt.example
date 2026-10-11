@@ -1,0 +1,12 @@
+# MenkyoNavi serves /ads.txt dynamically when a validated publisher ID is set:
+#   ADSENSE_PUBLISHER_ID=pub-XXXXXXXXXXXXXXXX   (real numeric ID only)
+#
+# Live ad rendering is separate and remains off until:
+#   ADSENSE_ENABLED=true
+#   plus consent gates when ADSENSE_REQUIRE_CONSENT=true
+#
+# Example line format (do not use this placeholder ID in production):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# Until a real publisher ID is configured, GET /ads.txt returns 404.
+# Setting only the publisher ID does not load AdSense scripts.

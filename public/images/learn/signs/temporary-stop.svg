@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="ts-t ts-d">
+  <title id="ts-t">一時停止</title>
+  <desc id="ts-d">Japanese regulatory sign 330: inverted red triangle with white border and 止まれ lettering.</desc>
+  <polygon points="100,178 22,34 178,34" fill="#C62828" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"/>
+  <text x="100" y="98" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="24" font-weight="700">止まれ</text>
+</svg>

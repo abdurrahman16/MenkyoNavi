@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" role="img" aria-labelledby="ipu-t ipu-d">
+  <title id="ipu-t">Uncontrolled residential intersection</title>
+  <desc id="ipu-d">Language-neutral narrow residential intersection with limited sightlines and approaching vehicles. Captions rendered in HTML.</desc>
+  <rect width="840" height="400" fill="#F7F3E9"/>
+  <rect x="340" y="0" width="140" height="400" fill="#D9D3C5"/>
+  <rect x="0" y="160" width="840" height="100" fill="#D9D3C5"/>
+  <rect x="250" y="110" width="70" height="50" rx="6" fill="#7A8694"/>
+  <path d="M280 135 C320 135 340 170 360 190" stroke="#C6533E" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+  <g transform="translate(160,190)">
+    <rect width="70" height="30" rx="5" fill="#26466D"/>
+    <circle cx="18" cy="32" r="6" fill="#252A2D"/>
+    <circle cx="52" cy="32" r="6" fill="#252A2D"/>
+  </g>
+  <g transform="translate(520,100)">
+    <rect width="30" height="60" rx="5" fill="#71865A"/>
+    <circle cx="8" cy="64" r="5" fill="#252A2D"/>
+    <circle cx="22" cy="64" r="5" fill="#252A2D"/>
+  </g>
+</svg>

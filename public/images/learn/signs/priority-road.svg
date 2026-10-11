@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="pr-t pr-d">
+  <title id="pr-t">Priority road</title>
+  <desc id="pr-d">Japanese instruction sign: yellow diamond with a white inset diamond, centered and fully visible.</desc>
+  <polygon points="100,40 160,100 100,160 40,100" fill="#F7D117" stroke="#252A2D" stroke-width="4.5" stroke-linejoin="round"/>
+  <polygon points="100,68 132,100 100,132 68,100" fill="#FFFFFF" stroke="#252A2D" stroke-width="3" stroke-linejoin="round"/>
+</svg>

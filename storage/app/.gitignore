@@ -1,0 +1,6 @@
+*
+!private/
+!public/
+!.gitignore
+# menkyo-imports/ holds local original HTML sources and must stay untracked
+# to avoid distributing copyrighted question banks via a public repository.

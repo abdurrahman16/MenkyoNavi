@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><title>Mini</title></head><body>
+<script>
+const SIGNS={
+ pedbike:'svg-pedbike',
+ diagram:'svg-diagram'
+};
+const TESTS=[
+[
+["Mini karimen question one that is false.",0,"Explanation for question one."],
+["Mini karimen question two with a sign.",1,"Explanation for question two.","pedbike","Pedestrian crossing sign"],
+["Mini karimen question three.",1,"Explanation for question three."],
+["Mini karimen question four.",0,"Explanation for question four."],
+["Mini karimen question five.",1,"Explanation for question five."]
+],
+[
+["Mini karimen test2 q1.",1,"Expl t2q1."],
+["Mini karimen test2 q2.",0,"Expl t2q2."],
+["Mini karimen test2 q3.",1,"Expl t2q3."],
+["Mini karimen test2 q4.",0,"Expl t2q4."],
+["Mini karimen test2 q5.",1,"Expl t2q5."]
+],
+[
+["Mini karimen test3 q1.",0,"Expl t3q1."],
+["Mini karimen test3 q2.",1,"Expl t3q2."],
+["Mini karimen test3 q3.",0,"Expl t3q3."],
+["Mini karimen test3 q4.",1,"Expl t3q4."],
+["Mini karimen test3 q5.",0,"Expl t3q5."]
+],
+[
+["Mini karimen test4 q1.",1,"Expl t4q1."],
+["Mini karimen test4 q2.",0,"Expl t4q2."],
+["Mini karimen test4 q3.",1,"Expl t4q3."],
+["Mini karimen test4 q4.",0,"Expl t4q4."],
+["Mini karimen test4 q5.",1,"Expl t4q5."]
+],
+[
+["Duplicate content across sets for fingerprint checks.",1,"Shared explanation text."],
+["Mini karimen test5 q2.",0,"Expl t5q2."],
+["Mini karimen test5 q3.",1,"Expl t5q3."],
+["Mini karimen test5 q4.",0,"Expl t5q4."],
+["Same wording different answer probe.",1,"Answer true explanation."]
+]
+];
+const DL1=[
+["Duplicate content across sets for fingerprint checks.",1,"Shared explanation text."],
+["Honmen DL1 question two.",0,"DL1 expl two.","diagram","Intersection diagram"],
+["Honmen DL1 question three.",1,"DL1 expl three."],
+["Same wording different answer probe.",0,"Answer false explanation."],
+["Honmen DL1 question five.",1,"DL1 expl five."]
+];
+const DL2=[
+["Honmen DL2 question one.",1,"DL2 expl one."],
+["Honmen DL2 question two.",0,"DL2 expl two."],
+["Honmen DL2 question three.",1,"DL2 expl three."],
+["Honmen DL2 question four.",0,"DL2 expl four."],
+["Honmen DL2 question five.",1,"DL2 expl five."]
+];
+const DL3=[
+["Honmen DL3 question one.",0,"DL3 expl one."],
+["Honmen DL3 question two.",1,"DL3 expl two."],
+["Honmen DL3 question three.",0,"DL3 expl three."],
+["Honmen DL3 question four.",1,"DL3 expl four."],
+["Honmen DL3 question five.",0,"DL3 expl five."]
+];
+const DL4=[
+["Honmen DL4 question one.",1,"DL4 expl one."],
+["Honmen DL4 question two.",0,"DL4 expl two."],
+["Honmen DL4 question three.",1,"DL4 expl three."],
+["Honmen DL4 question four.",0,"DL4 expl four."],
+["Honmen DL4 question five.",1,"DL4 expl five."]
+];
+const DTESTS=[DL1,DL2,DL3,DL4];
+</script>
+</body></html>

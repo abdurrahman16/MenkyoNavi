@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="dg-t dg-d">
+  <title id="dg-t">Destination and distance guide</title>
+  <desc id="dg-d">Simplified Japanese blue rectangular guide sign for destinations and distances.</desc>
+  <rect x="20" y="40" width="160" height="120" rx="6" fill="#1B4F9C" stroke="#252A2D" stroke-width="2"/>
+  <text x="36" y="78" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">新宿</text>
+  <text x="150" y="78" text-anchor="end" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">2km</text>
+  <text x="36" y="112" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">渋谷</text>
+  <text x="150" y="112" text-anchor="end" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="700">5km</text>
+  <polygon points="36,138 52,130 52,146" fill="#ffffff"/>
+  <text x="60" y="144" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="600">方面案内</text>
+</svg>

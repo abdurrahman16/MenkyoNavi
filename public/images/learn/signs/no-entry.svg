@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="ne-t ne-d">
+  <title id="ne-t">車両進入禁止</title>
+  <desc id="ne-d">Japanese regulatory sign 303: red circular ground with a white horizontal band (vehicles must not enter from this direction).</desc>
+  <circle cx="100" cy="100" r="78" fill="#C62828"/>
+  <circle cx="100" cy="100" r="78" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <rect x="38" y="88" width="124" height="24" rx="1" fill="#FFFFFF"/>
+</svg>

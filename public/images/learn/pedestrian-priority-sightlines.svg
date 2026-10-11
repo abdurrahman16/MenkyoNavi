@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="pps-t pps-d">
+  <title id="pps-t">Sightlines near a parked vehicle</title>
+  <desc id="pps-d">Language-neutral educational diagram: limited visibility beside a parked car and a pedestrian near a crosswalk. Captions rendered in HTML.</desc>
+  <rect width="640" height="320" fill="#F7F3E9"/>
+  <rect x="0" y="160" width="640" height="80" fill="#D9D3C5"/>
+  <rect x="360" y="160" width="16" height="80" fill="#F4F0E4"/>
+  <rect x="388" y="160" width="16" height="80" fill="#F4F0E4"/>
+  <rect x="416" y="160" width="16" height="80" fill="#F4F0E4"/>
+  <g transform="translate(210,150)">
+    <rect x="0" y="10" width="96" height="40" rx="8" fill="#7A8694"/>
+    <rect x="14" y="0" width="48" height="18" rx="5" fill="#94A0AD"/>
+    <circle cx="22" cy="54" r="9" fill="#2B2B2B"/>
+    <circle cx="74" cy="54" r="9" fill="#2B2B2B"/>
+  </g>
+  <g transform="translate(70,175)">
+    <rect x="0" y="16" width="100" height="34" rx="8" fill="#26466D"/>
+    <circle cx="24" cy="52" r="9" fill="#2B2B2B"/>
+    <circle cx="78" cy="52" r="9" fill="#2B2B2B"/>
+  </g>
+  <path d="M170 190 C240 120, 300 120, 360 170" stroke="#C6533E" stroke-width="2.5" fill="none" stroke-dasharray="6 6"/>
+  <path d="M170 190 C250 210, 300 210, 360 190" stroke="#71865A" stroke-width="2.5" fill="none" opacity="0.75"/>
+  <g transform="translate(330,120)">
+    <circle cx="14" cy="8" r="8" fill="#71865A"/>
+    <rect x="9" y="17" width="10" height="24" rx="3" fill="#71865A"/>
+    <path d="M14 24 L2 34 M14 24 L26 34 M14 41 L8 58 M14 41 L20 58" stroke="#71865A" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

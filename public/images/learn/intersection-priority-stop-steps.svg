@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="ipst-t ipst-d">
+  <title id="ipst-t">Four-step temporary stop process</title>
+  <desc id="ipst-d">Language-neutral numbered steps 1-4 with icons for approach, stop, observe, and proceed. Captions rendered in HTML.</desc>
+  <rect width="900" height="260" fill="#F7F3E9"/>
+  <g font-family="sans-serif">
+    <rect x="30" y="40" width="180" height="180" rx="16" fill="#FFFFFF" stroke="#26466D" stroke-width="2"/>
+    <text x="120" y="95" text-anchor="middle" fill="#26466D" font-size="40" font-weight="700">1</text>
+    <path d="M70 150 h70" stroke="#26466D" stroke-width="5" fill="none"/>
+    <polygon points="145,150 130,142 130,158" fill="#26466D"/>
+
+    <rect x="250" y="40" width="180" height="180" rx="16" fill="#FFFFFF" stroke="#C6533E" stroke-width="2"/>
+    <text x="340" y="95" text-anchor="middle" fill="#C6533E" font-size="40" font-weight="700">2</text>
+    <rect x="300" y="140" width="80" height="12" rx="2" fill="#C6533E"/>
+    <rect x="325" y="160" width="30" height="22" rx="4" fill="#26466D"/>
+
+    <rect x="470" y="40" width="180" height="180" rx="16" fill="#FFFFFF" stroke="#B88A44" stroke-width="2"/>
+    <text x="560" y="95" text-anchor="middle" fill="#B88A44" font-size="40" font-weight="700">3</text>
+    <circle cx="530" cy="150" r="10" fill="none" stroke="#B88A44" stroke-width="3"/>
+    <circle cx="560" cy="150" r="10" fill="none" stroke="#B88A44" stroke-width="3"/>
+    <circle cx="590" cy="150" r="10" fill="none" stroke="#B88A44" stroke-width="3"/>
+
+    <rect x="690" y="40" width="180" height="180" rx="16" fill="#FFFFFF" stroke="#71865A" stroke-width="2"/>
+    <text x="780" y="95" text-anchor="middle" fill="#71865A" font-size="40" font-weight="700">4</text>
+    <path d="M730 155 h70" stroke="#71865A" stroke-width="5" fill="none"/>
+    <polygon points="805,155 790,147 790,163" fill="#71865A"/>
+  </g>
+</svg>

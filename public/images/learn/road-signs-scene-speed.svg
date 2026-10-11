@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="ssp-t ssp-d">
+  <title id="ssp-t">最高速度の場面</title>
+  <desc id="ssp-d">Roadway with an example Japanese 40 km/h maximum-speed sign; language-neutral educational diagram.</desc>
+  <rect width="720" height="360" fill="#F7F3E9"/>
+  <rect x="0" y="200" width="720" height="100" fill="#D9D3C5"/>
+  <rect x="40" y="246" width="640" height="6" fill="#F4F0E4" opacity="0.8"/>
+  <g transform="translate(120,40) scale(0.8)">
+    <circle cx="100" cy="100" r="78" fill="#FFFFFF" stroke="#C62828" stroke-width="14"/>
+    <text x="100" y="118" text-anchor="middle" fill="#252A2D" font-family="sans-serif" font-size="64" font-weight="700">40</text>
+  </g>
+  <rect x="188" y="180" width="12" height="70" fill="#252A2D"/>
+  <g transform="translate(420,230)">
+    <rect width="120" height="44" rx="8" fill="#26466D"/>
+    <circle cx="30" cy="46" r="9" fill="#252A2D"/>
+    <circle cx="90" cy="46" r="9" fill="#252A2D"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="tp-t tp-d">
+  <title id="tp-t">Day or time plate</title>
+  <desc id="tp-d">Japanese white rectangular supplementary plate showing a time example.</desc>
+  <rect x="30" y="60" width="140" height="80" rx="4" fill="#ffffff" stroke="#252A2D" stroke-width="3"/>
+  <text x="100" y="95" text-anchor="middle" fill="#252A2D" font-family="sans-serif" font-size="22" font-weight="700">8 — 20</text>
+  <text x="100" y="122" text-anchor="middle" fill="#252A2D" font-family="sans-serif" font-size="13" font-weight="600">日曜・休日を除く</text>
+</svg>

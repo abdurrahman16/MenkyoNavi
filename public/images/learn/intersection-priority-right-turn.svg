@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="iprt-t iprt-d">
+  <title id="iprt-t">Right turn in Japan</title>
+  <desc id="iprt-d">Language-neutral left-side traffic right-turn path yielding to straight and left-turning traffic. Captions rendered in HTML.</desc>
+  <rect width="720" height="400" fill="#F7F3E9"/>
+  <rect x="280" y="0" width="160" height="400" fill="#D9D3C5"/>
+  <rect x="0" y="140" width="720" height="120" fill="#D9D3C5"/>
+  <path d="M120 210 C260 210 320 210 360 170 C420 110 480 200 560 200" stroke="#C6533E" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <polygon points="560,200 546,192 546,208" fill="#C6533E"/>
+  <g transform="translate(90,190)">
+    <rect width="70" height="30" rx="6" fill="#C6533E"/>
+    <circle cx="18" cy="32" r="6" fill="#252A2D"/>
+    <circle cx="52" cy="32" r="6" fill="#252A2D"/>
+  </g>
+  <g transform="translate(330,40)">
+    <rect width="36" height="70" rx="5" fill="#71865A"/>
+    <circle cx="10" cy="74" r="6" fill="#252A2D"/>
+    <circle cx="26" cy="74" r="6" fill="#252A2D"/>
+  </g>
+  <circle cx="500" cy="280" r="11" fill="#71865A"/>
+  <rect x="494" y="292" width="12" height="22" rx="3" fill="#71865A"/>
+</svg>

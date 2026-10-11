@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="ips-t ips-d">
+  <title id="ips-t">Japanese temporary stop and stop line</title>
+  <desc id="ips-d">Language-neutral educational diagram: inverted red-triangle temporary-stop sign, stop line, and vehicle stopped before the line. Captions rendered in HTML.</desc>
+  <rect width="720" height="360" fill="#F7F3E9"/>
+  <rect x="0" y="220" width="720" height="90" fill="#D9D3C5"/>
+  <rect x="400" y="210" width="140" height="10" fill="#C6533E"/>
+  <g transform="translate(80,20) scale(0.95)">
+    <polygon points="100,178 22,34 178,34" fill="#C62828" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"/>
+    <text x="100" y="98" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="24" font-weight="700">止まれ</text>
+  </g>
+  <rect x="158" y="170" width="14" height="55" fill="#252A2D"/>
+  <g transform="translate(250,250)">
+    <rect width="100" height="40" rx="7" fill="#26466D"/>
+    <circle cx="24" cy="42" r="8" fill="#252A2D"/>
+    <circle cx="76" cy="42" r="8" fill="#252A2D"/>
+  </g>
+</svg>

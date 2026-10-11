@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="spk-t spk-d">
+  <title id="spk-t">駐車禁止の場面</title>
+  <desc id="spk-d">Roadside section with Japanese no-parking sign and curb context; language-neutral educational diagram.</desc>
+  <rect width="720" height="360" fill="#F7F3E9"/>
+  <rect x="0" y="220" width="720" height="90" fill="#D9D3C5"/>
+  <rect x="0" y="300" width="720" height="30" fill="#C8C2B4"/>
+  <g transform="translate(140,50) scale(0.8)">
+    <circle cx="100" cy="100" r="78" fill="#1B4F9C" stroke="#C62828" stroke-width="12"/>
+    <text x="100" y="122" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="700">P</text>
+    <line x1="48" y1="48" x2="152" y2="152" stroke="#C62828" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <rect x="208" y="190" width="12" height="70" fill="#252A2D"/>
+  <rect x="420" y="250" width="90" height="36" rx="6" fill="#8A9099" opacity="0.55"/>
+  <path d="M420 268 h-50" stroke="#C6533E" stroke-width="3" stroke-dasharray="8 6" fill="none"/>
+  <polygon points="370,268 386,260 386,276" fill="#C6533E"/>
+</svg>
